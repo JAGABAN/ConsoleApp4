@@ -15,6 +15,7 @@ namespace ConsoleApp4
             Console.WriteLine("jjjj");
             Console.WriteLine("very good");
             Console.WriteLine("iii");
+            Console.WriteLine("woss wobi");
         }
     }
 }
